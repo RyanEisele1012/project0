@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "First"; ObjectID = "1D3-3A-SI1"; */
+"1D3-3A-SI1.text" = "First";
+
+/* Class = "UILabel"; text = "Pets"; ObjectID = "3yV-qq-u9X"; */
+"3yV-qq-u9X.text" = "Pets";
+
+/* Class = "UILabel"; text = "School"; ObjectID = "JJg-rf-nwm"; */
+"JJg-rf-nwm.text" = "School";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ZFg-p5-VLI"; */
+"ZFg-p5-VLI.text" = "0";
+
+/* Class = "UIButton"; configuration.title = "Introduce Self"; ObjectID = "dVa-it-uDy"; */
+"dVa-it-uDy.configuration.title" = "Introduce Self";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dVa-it-uDy"; */
+"dVa-it-uDy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Last"; ObjectID = "kS7-9L-BV7"; */
+"kS7-9L-BV7.text" = "Last";
+
+/* Class = "UISegmentedControl"; kvd-aj-BnD.segmentTitles[0] = "First"; ObjectID = "kvd-aj-BnD"; */
+"kvd-aj-BnD.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; kvd-aj-BnD.segmentTitles[1] = "Second"; ObjectID = "kvd-aj-BnD"; */
+"kvd-aj-BnD.segmentTitles[1]" = "Second";
+
+/* Class = "UISegmentedControl"; kvd-aj-BnD.segmentTitles[2] = "Third"; ObjectID = "kvd-aj-BnD"; */
+"kvd-aj-BnD.segmentTitles[2]" = "Third";
+
+/* Class = "UISegmentedControl"; kvd-aj-BnD.segmentTitles[3] = "Fourth"; ObjectID = "kvd-aj-BnD"; */
+"kvd-aj-BnD.segmentTitles[3]" = "Fourth";
+
+/* Class = "UILabel"; text = "More pets?"; ObjectID = "xNh-rq-qAQ"; */
+"xNh-rq-qAQ.text" = "More pets?";
